@@ -21,6 +21,11 @@ h2 {
     margin-top: 2rem;
 }
 
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .ButtonLogin {
     display: flex;
     justify-content: center;
