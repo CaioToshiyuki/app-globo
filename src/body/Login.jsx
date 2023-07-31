@@ -35,11 +35,11 @@ const Login = () => {
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="username">E-mail:</label>
-          <input type="text" id="username" value={username} onChange={handleUsernameChange} />
+          <input type="text" id="username" value={username} onChange={handleUsernameChange} placeholder='caio@gmail.com'/>
         </div>
         <div className="form-group">
           <label htmlFor="password">Senha:</label>
-          <input type="password" id="password" value={password} onChange={handlePasswordChange} />
+          <input type="password" id="password" value={password} onChange={handlePasswordChange} placeholder='***********'/>
         </div>
         <button className= "ButtonLogin" type="submit"><span>Entrar</span></button>
       </form>
