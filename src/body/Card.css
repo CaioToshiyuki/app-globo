@@ -1,0 +1,36 @@
+.Card {
+    font-size: 20px;
+    font-style: normal;
+    line-height: 30px;
+    width: 190px;
+    height: min-content;
+}
+
+.image_news {
+    box-sizing: inherit;
+    border-radius: 12px;
+    width: 190px;
+    height: auto;
+}
+.title_news{
+    box-sizing: inherit;
+    font-weight: 700;
+    width: 195px;
+    line-height: 20px;
+}
+
+.subtitle {
+    margin-left: -20px;
+    width: 180px;
+}
+
+.news_bullets {
+    font-size: 15px;
+    line-height: 15px;
+    margin-top: 10px;
+}
+
+.division_line{
+    border-bottom: 1px solid #ebedef;
+    opacity: 0.5;
+}

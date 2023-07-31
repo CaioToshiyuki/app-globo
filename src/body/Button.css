@@ -1,0 +1,17 @@
+.ButtonVote {
+    margin-top: 2rem;
+    height: 40px;
+    width: 240px;
+    left: 0px;
+    top: 204px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FF6700;
+}
+.ButtonVote span{
+    color: white;
+    text-align: center;
+}

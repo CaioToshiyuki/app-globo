@@ -1,0 +1,174 @@
+body {
+    box-sizing: inherit;
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    box-sizing: inherit;
+    height: 124px;
+    top: 0px;
+    border-radius: 0px;
+    margin-bottom: 60px;
+}
+
+.logo {
+    box-sizing: inherit;
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.header-logo {
+    box-sizing: inherit;
+    font-weight: bold;
+    font-size: 45px;
+    background-image: linear-gradient(93.27deg, #0420fc 18.97%, #03b4fc 100.21%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: black;
+}
+
+.header-item {
+    box-sizing: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.8rem;
+}
+
+.fa-regular {
+    margin-right: 20px;
+}
+
+.menu-assine,
+.conta-busca {
+    box-sizing: inherit;
+    display: flex;
+    gap: 20px;
+    color: #2F3134;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: -0.22499999403953552px;
+    text-align: left;
+    background-clip: text;
+    -webkit-background-clip: text;
+    padding-right: 120px;
+    padding-left: 100px;
+}
+
+.points {
+    box-sizing: inherit;
+    margin-top: -10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 5px 5px;
+    color: #0031FF;
+    font-weight: bold;
+}
+
+#menu {
+    box-sizing: inherit;
+    padding-right: 36px;
+    border-right: 2px solid #ebedef;
+}
+
+.fa-regular,
+.fa-sharp {
+    box-sizing: inherit;
+    margin-top: 2px;
+}
+
+#busca {
+    box-sizing: inherit;
+    padding-left: 30px;
+    border-left: 2px solid #ebedef;
+}
+
+header i {
+    box-sizing: inherit;
+    color: #0031FF;
+}
+
+#assine {
+    text-decoration: none;
+    color: black;
+}
+
+#conta {
+    text-decoration: none;
+    color: black;
+    box-sizing: inherit;
+    padding-right: 0px;
+}
+
+nav {
+    box-sizing: inherit;
+    border-top: 2px solid #ebedef;
+    border-bottom: 2px solid #ebedef;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 280px;
+    padding-left: 200px;
+
+}
+
+nav a {
+    box-sizing: inherit;
+    text-decoration: none;
+}
+
+nav h3 {
+    font-size: 19px;
+}
+
+#g1 {
+    box-sizing: inherit;
+    color: #C4170C;
+}
+
+#oglobo {
+    box-sizing: inherit;
+    color: #1E4C9A;
+}
+
+#valor {
+    box-sizing: inherit;
+    color: #006767;
+}
+
+#ge {
+    box-sizing: inherit;
+    color: #06AA48;
+}
+
+#cartola {
+    box-sizing: inherit;
+    color: #FF7400;
+}
+
+#globoplay {
+    box-sizing: inherit;
+    color: #FB0234;
+}
+
+#gshow {
+    box-sizing: inherit;
+    color: #FF6700;
+}
+
+#quem {
+    box-sizing: inherit;
+    color: #333333;
+}
+
+#receitas {
+    box-sizing: inherit;
+    color: #A5147D;
+}
+
+#gigaglobo {
+    box-sizing: inherit;
+    color: #00C4A2;
+}

@@ -1,0 +1,33 @@
+h2 {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10ch;
+    margin-bottom: 2ch;
+    box-sizing: inherit;
+    font-weight: bold;
+    font-size: 25px;
+    background-image: linear-gradient(93deg, #0420fc 35.97%, #03b4fc 65.21%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: black;
+}
+
+.form-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.ButtonLogin {
+    height: 40px;
+    width: 240px; 
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    background-image: linear-gradient(100deg, #0420fc 45.97%, #03b4fc 90.21%);
+    color: white;
+}
