@@ -1,7 +1,6 @@
 import Card from './Card';
 import MainNews from './MainNews';
 import HeaderLinks from '../header/HeaderLinks';
-import button from './Button.css';
 import LoginCSS from './Login.css';
 
 import React, { useState } from 'react';
